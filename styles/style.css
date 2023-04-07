@@ -92,6 +92,7 @@ hr {
 
 ul {
     list-style-type: circle;
+    margin-left: 2%;
 }
 
 .list li a {
@@ -150,6 +151,10 @@ ul {
 
 #item04 {
     clear: both;
+}
+
+ol {
+    margin-left: 2%;
 }
 
 ol li:nth-child(2), ol li:nth-child(3) {
