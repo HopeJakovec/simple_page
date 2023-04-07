@@ -87,12 +87,11 @@ hr {
     margin-top: 16px;
     margin-bottom: 0;
     line-height: 22px;
-    /* list-style-type: circle; */
+    margin-left: 2%;
 }
 
 ul {
     list-style-type: circle;
-    margin-left: 2%;
 }
 
 .list li a {
