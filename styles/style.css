@@ -152,8 +152,8 @@ ul {
     clear: both;
 }
 
-ol.header3-text,
-ul.header3-text {
+ol .header3-text,
+ul .header3-text {
     margin-left: 2%;
 }
 
